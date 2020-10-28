@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vortex.local.iml" filepath="$PROJECT_DIR$/.idea/vortex.local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vortexProject.local.iml" filepath="$PROJECT_DIR$/.idea/vortexProject.local.iml" />
     </modules>
   </component>
 </project>
